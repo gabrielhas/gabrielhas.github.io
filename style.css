@@ -6,6 +6,10 @@
       font-family: Verdana, Geneva, Tahoma, sans-serif;
     }
 
+    img {
+      width: 200px;
+    }
+
     #descricao {
       font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     }
@@ -26,4 +30,35 @@
     .lazer {
       width: 150px;
       font-size: 18px;
+    }
+
+    #nome {
+      text-align: center;
+      margin-bottom: 10px;
+    }
+
+    #foto {
+      position: absolute;
+      width: 200px;
+      left: 300px;
+      padding: 5px;
+      background-color: green;
+    }
+
+    #informacoes {
+      position: absolute;
+      top: 150px;
+      left: 520px;
+    }
+
+    #habilidades {
+      position: absolute;
+      top: 350px;
+      left: 30px;
+    }
+
+    #pe {
+      position: absolute;
+      top: 600px;
+      left: 100px;
     }
