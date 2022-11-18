@@ -1,0 +1,29 @@
+    body {
+      background-color: lightslategray;
+    }
+
+    h2 {
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+    #descricao {
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+
+    #nacionalidade {
+      font-style: italic;
+    }
+
+    #cidade {
+      font-style: oblique;
+    }
+
+    .estudo {
+      font-size: 18px;
+      width: 580px;
+    }
+
+    .lazer {
+      width: 150px;
+      font-size: 18px;
+    }
